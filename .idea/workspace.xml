@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46129e4a-852f-4a5f-8124-a4ccfcc8e813" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YCBk16v2zqd7ZgoeQR4r8klEio" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ActorA">
+    <configuration name="ActorA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assign1.ActorA" />
+      <module name="679-project" />
+      <option name="VM_PARAMETERS" value="-Dremote=192.168.0.203:8000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assign1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActorB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assign1.ActorB" />
+      <module name="679-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assign1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ActorA" />
+      <item itemvalue="Application.ActorB" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ActorA" />
+        <item itemvalue="Application.ActorB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46129e4a-852f-4a5f-8124-a4ccfcc8e813" name="Default Changelist" comment="" />
+      <created>1582436834159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582436834159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="396" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582438590041">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="396" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.958@0.23.1680.958" timestamp="1582438590041" />
+    <state x="664" y="405" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1582436985712">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="664" y="405" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1680.958@0.23.1680.958" timestamp="1582436985712" />
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1582438608284">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1582438608284" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1582438608283">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1582438608283" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1582438608283">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1582438608283" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1582438608284">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1582438608284" />
+    <state x="420" y="65" key="SettingsEditor" timestamp="1582438556678">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="420" y="65" key="SettingsEditor/0.23.1680.958@0.23.1680.958" timestamp="1582438556678" />
+  </component>
+</project>

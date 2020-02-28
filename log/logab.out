@@ -1,0 +1,19 @@
+00:50:06 INFO  Thread-1 0 Remote:50 - remote daemon id = 13 for call-forward actor ActorB (id=12) port = 9000
+00:50:06 INFO  Thread-1 4 Remote:54 - waiting to accept connection on port 9000
+00:50:06 INFO  Thread-0 5 ActorB$:43 - got task = Task(192.168.0.115:0,testing 1-2-3,12,0)
+00:50:06 INFO  Thread-0 6 ActorB$:55 - got testing 1-2-3
+00:50:44 INFO  Thread-0 0 ActorA$:40 - started
+00:50:48 INFO  main 4642 Relay:57 - relaying all messages to 192.168.0.115:9000
+00:50:49 INFO  Thread-1 5142 Relay:69 - relay daemon started id = 13 for callback actor ActorA (id=11)
+00:50:49 INFO  Thread-1 5145 Relay:73 - waiting to accept reply connection on port = 0
+00:50:53 INFO  main 9647 Relay:62 - listening for replies on 192.168.0.115:9004
+00:50:59 INFO  main 14949 Relay:99 - relaying Y(hello there from ActorA (id=11)) as Task(192.168.0.115:9004,Y(hello there from ActorA (id=11)),11,0)
+00:50:59 INFO  Thread-1 53176 Remote:57 - got connection from 192.168.0.115
+00:50:59 INFO  Thread-1 53177 Remote:54 - waiting to accept connection on port 9000
+00:50:59 INFO  Thread-2 53177 Ice:40 - ice started (id=15)
+00:50:59 INFO  main 14965 Relay:113 - successfully sent Task(192.168.0.115:9004,Y(hello there from ActorA (id=11)),11,0) to 192.168.0.115:9000
+00:50:59 INFO  Thread-2 53200 Ice:48 - received inbound message = Task(192.168.0.115:9004,Y(hello there from ActorA (id=11)),11,0)
+00:50:59 INFO  Thread-2 53201 Ice:49 - actor handler = ActorB (id=12)
+00:50:59 INFO  Thread-2 53201 Ice:53 - successfully relayed Task(192.168.0.115:9004,Y(hello there from ActorA (id=11)),11,0)
+00:50:59 INFO  Thread-0 53201 ActorB$:43 - got task = Task(192.168.0.115:9004,Y(hello there from ActorA (id=11)),11,0)
+00:50:59 INFO  Thread-0 53201 ActorB$:49 - payload is Y = hello there from ActorA (id=11)

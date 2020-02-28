@@ -1,0 +1,7 @@
+01:16:49 INFO  Thread-0 0 ActorA$:40 - started
+01:16:53 INFO  main 4641 Relay:57 - relaying all messages to 192.168.0.203:8000
+01:16:54 INFO  Thread-1 5145 Relay:69 - relay daemon started id = 13 for callback actor ActorA (id=11)
+01:16:54 INFO  Thread-1 5148 Relay:73 - waiting to accept reply connection on port = 0
+01:16:58 INFO  main 9645 Relay:62 - listening for replies on 192.168.0.115:8004
+01:17:04 INFO  main 14951 Relay:99 - relaying Y(hello there from ActorA (id=11)) as Task(192.168.0.115:8004,Y(hello there from ActorA (id=11)),11,0)
+01:17:04 INFO  main 14992 Relay:113 - successfully sent Task(192.168.0.115:8004,Y(hello there from ActorA (id=11)),11,0) to 192.168.0.203:8000
